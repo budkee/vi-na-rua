@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("Oie! Você está no index do polls.")
+    return HttpResponse("Boa time! Achou o index do polls.")
