@@ -1,22 +1,24 @@
-# Nome do projeto
+# Vi na Rua | Eae!
 
+<img src="./img/iconeappimagem.png" align="right" width="250" height="250" alt="icone_app: uma mão segurando um icone com uma silhueta de uma pessoa no meio">
+<br>
+
+## Informações gerais sobre o projeto
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
+- [x] Alterar a tela de informações das instituições: [acompanhe]()
+- [] Testar o botão de rotas: [acompanhe]()
+- [] Adicionar a imagem correta pela escolha do usuário: [acompanhe]()   
 - [ ] Tarefa 4
 - [ ] Tarefa 5
 
