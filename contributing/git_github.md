@@ -118,6 +118,13 @@ Iniciar a manutenção do código `hotfix`
 
     # FimOutput
 
+Merge da `hotfix` à `main` e retorno para `main`
+
+    git flow hotfix finish 'hotfix_branch'
+
+    # Output
+    
+
 ## Links e Referências
 
 - [Git Flow: modelo de desenvolvimento colaborativo](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
