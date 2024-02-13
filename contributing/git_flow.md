@@ -11,9 +11,13 @@
 ### Branches
 
 `main`: registro histórico do projeto. Somente será alterado (merge) em casos de lançamentos (releases) ou manutenções de documentação e segurança (hotfixs).
+
 `develop`: seu branch de trabalho principal. Aqui você realiza o merge dos novos recursos (features) que você desenvolveu.
+
 `feature`: branch dedicado ao desenvolvimento do novo recurso do código. Este deverá ser criado a partir da ramificação mais recente de desenvolvimento.
+
 `release`: esta branch contém todos os recursos desenvolvidos durante um período de lançamento a partir da branch de desenvolvimento (develop). **Esta branch dá início ao próximo ciclo de lançamento, não podendo, portanto, adicionar novos recursos após este ponto.**
+
 `hotfix`: branch para manutenção de documentação e/ou segurança do código.
 
 ## Prática
