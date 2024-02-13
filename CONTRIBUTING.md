@@ -11,13 +11,18 @@
 - [Automation Hub](https://www.uipath.com/pt/product/automation-hub)
 - [PostgreSQL]()
 
+### Tarefas
+
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Tarefa 1: [status]()
-- [ ] Tarefa 2: [status]()
-- [ ] Tarefa 3: [status]()
-- [ ] Tarefa 4: [status]()
-- [ ] Tarefa 5: [status]()
+| Tarefa | Status (acompanhe) | Início | Previsão de Término | Entrega | 
+| --- | --- | --- | --- | --- | 
+| [ ] Planejamento e Organização do Projeto | [em andamento]() | 01-12-2023 | 31-01-2024 | [README](https://github.com/budkee/vi-na-rua) | 
+| [ ] Configuração do ambiente de desenvolvimento | [em andamento]() | | |
+| [ ] Configuração do ambiente de produção | [não iniciado]() | | |
+| [ ] Desenho da Interface no Figma | [não iniciado]() | | |
+| [ ] Lista de Requisitos do Sistema | [não iniciado]() | | |
+| [ ] Modelagem do Banco de Dados | [não iniciado]() | | |
 
 ## 💻 Pré-requisitos
 
