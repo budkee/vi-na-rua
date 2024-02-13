@@ -2,8 +2,8 @@
 
 ## Sumário
 
-- [Parte Teórica](#teoria)
-- [Parte Prática](#prática)
+- [Branches](#branches)
+- [](#prática)
 - [Links e Referências](#links-e-referências)
 
 ## Teoria
@@ -26,6 +26,8 @@ Verifique em qual branch você está:
 
     git branch
 
+### Git Flow | Iniciando o workflow
+
 Iniciar a `main` com o git flow
 
     git flow init
@@ -34,7 +36,9 @@ Alternar para o `develop`
 
     git checkout develop
 
-Iniciar um novo recurso `feature`
+### Git Flow | Novo recurso
+
+Iniciar um novo recurso `feature` a partir da branch `develop`
 
     git flow feature start feature_branch
 
@@ -66,7 +70,7 @@ Merge da `feature` à `develop` e retorno para a mesma (branch)
 
     # FimOutput
 
-Iniciar um novo lançamento `release`
+Iniciar um novo lançamento `release` a partir da branch `develop`
 
     git flow release start 0.1.0
 
