@@ -161,3 +161,4 @@ cython_debug/
 
 # Para não subir no GitHub
 
+.pswd.txt
